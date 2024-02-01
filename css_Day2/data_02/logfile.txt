@@ -1,0 +1,15 @@
+Geospatial Data.txt
+country_data_index.csv
+insurance_data.csv
+iris.csv
+logfile.txt
+patient_data.csv
+patient_data_dates.csv
+person_education.csv
+person_split1.csv
+person_split2.csv
+person_work.csv
+residentdoctors.xlsx
+stock-prices.csv
+student_data.json
+time_series_data.csv

@@ -1,0 +1,136 @@
+    1  echo "Hello world"
+    2  echo ((5+5))
+    3  echo (5+5)
+    4  echo$ (5+5)
+    5  echo$ ((5+5))
+    6  echo$((5+5))
+    7  echo $((5+5))
+    8  x=5
+    9  y=10
+   10  sum = $((x+y))
+   11  sum =$((x+y))
+   12  sum=$((x+y))
+   13  clear
+   14  pwd
+   15  ls
+   16  ls -h
+   17  ls -lh
+   18  ls -lr
+   19  ls -lR
+   20  clear
+   21  cd ..
+   22  cd 
+   23  cd css_Day2
+   24  ls
+   25  ls -lR
+   26  ls ..
+   27  clear
+   28  # ls -allows us to view content of folders
+   29  cd 
+   30  ls
+   31  cd ../css_Day2/
+   32  cd ../css_Day2
+   33  ..
+   34  cd ..
+   35  cd pmichael/
+   36  cd
+   37  cd 
+   38  cd ls
+   39  cd ../
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  cd ../
+   44  cd ../
+   45  cd
+   46  cd/
+   47  ls
+   48  clear
+   49  mkd css_Day4
+   50  mkdir css_Day4
+   51  cd css
+   52  cd css_Day4
+   53  mkdir dect_curves
+   54  ls
+   55  cp dect_curves/ dect_curves_2
+   56  cp -r dect_curves/ dect_curves_2
+   57  ls
+   58  ls
+   59  rm -r dect_curves
+   60  ls
+   61  ls
+   62  cd dect_curves_2/
+   63  cd ..
+   64  clear
+   65  ls
+   66  cat day4.txt
+   67  touch day4.txt
+   68  ls
+   69  touch code1.py
+   70  touch code2.py
+   71  ls
+   72  mdir py_folders
+   73  mkdir py_folders
+   74  mv *.py py_folders/
+   75  ls
+   76  cd py_folders/
+   77  ls
+   78  cd..
+   79  cd ..
+   80  touch a1b.txt
+   81  touch aXb.txt
+   82  touch axyzb.txt
+   83  ls
+   84  mkdir txt_files
+   85  ls
+   86  mv a?b.txt txt_files/
+   87  cd txt_files/
+   88  ls
+   89  clear
+   90  cd ..
+   91  ls
+   92  cd ..
+   93  cd css_Day2/
+   94  ls
+   95  cd data_02/
+   96  ls
+   97  cat iris.csv 
+   98  clear
+   99  ls
+  100  head iris.csv 
+  101  head iris.csv 
+  102  echo "2024-02-01,30">>logfile.txt
+  103  ls
+  104  cat logfile.txt 
+  105  clear
+  106  nanostock-prices.csv
+  107  nano stock-prices.csv
+  108  nano stock-prices.csv
+  109  cat stock-prices.csv 
+  110  cd ..
+  111  ls
+  112  cd day2.py 
+  113  ls
+  114  cd data_02/
+  115  ls
+  116  find -name "p*"
+  117  find -name "person*"
+  118  find -name "person_split?.csv*"
+  119  find -name "person_split*.csv*"
+  120  clear
+  121  cd ..
+  122  ls
+  123  cd data_02/
+  124  ls
+  125  tail iris.csv 
+  126  grep -n "virginica" *.csv
+  127  clear
+  128  ls -Lr
+  129  mkdir --help
+  130  clear
+  131  lsz > logfile.txt 
+  132  ls > logfile.txt 
+  133  ls
+  134  ls -a
+  135  history
+  136  history> History_backup
